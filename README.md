@@ -1,4 +1,4 @@
-# GitHub Emoji
+# GitHub Emojis
 
 This project was done in 30 min, just for fun.
 This project will probably see no updates in the future.
