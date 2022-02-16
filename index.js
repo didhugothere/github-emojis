@@ -7,7 +7,7 @@ fetch("https://api.github.com/emojis")
             const img = document.createElement("img");
             const p = document.createElement("p");
             img.src = value;
-            p.innerText = key;
+            p.innerText = `:${key}:`;
             div.appendChild(img);
             div.appendChild(p);
         });
