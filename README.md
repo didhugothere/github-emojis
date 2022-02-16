@@ -6,4 +6,4 @@ Made using the emojis GitHub API.
 
 You are free to do whatever you want with this project.
 
-You are free to open a pull request.
+You are free to open a pull request if you ever want to help.
